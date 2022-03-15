@@ -1,4 +1,4 @@
-/* -- 177. Nth Highest Salary
+/* -- 177. Nth Highest Salary..
 SQL Schema
 Table: Employee
 
